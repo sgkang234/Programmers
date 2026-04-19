@@ -4,7 +4,6 @@ package level_0;
 // 배열에서 가장 많이 나오는 정수를 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120812
 
-
 import java.util.HashMap;
 import java.util.Map;
 

@@ -4,8 +4,6 @@ package level_0;
 // 정수보다 작은 홀수만 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120813
 
-import java.util.ArrayList;
-
 public class 짝수는_싫어요 {
     public static void main(String[] args) {
         // 입력

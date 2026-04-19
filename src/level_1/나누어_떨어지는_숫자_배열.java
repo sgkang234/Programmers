@@ -1,5 +1,9 @@
 package level_1;
 
+// 2026.04.19
+// array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환하는 문제
+// https://school.programmers.co.kr/learn/courses/30/lessons/12910
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;

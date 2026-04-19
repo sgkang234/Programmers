@@ -1,6 +1,6 @@
 package level_1;
 
-// 2026.04.18
+// 2026.04.19
 // 배열 arr에서 연속적으로 나타나는 숫자는 하나만 남기고 전부 제거하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12906
 

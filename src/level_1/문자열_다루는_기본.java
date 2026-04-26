@@ -1,5 +1,9 @@
 package level_1;
 
+// 2026.04.23
+// 문자열 s의 길이가 4 혹은 6이고, 숫자로만 구성돼있는지 확인하고 출력하는 문제
+// https://school.programmers.co.kr/learn/courses/30/lessons/12918
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

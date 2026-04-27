@@ -6,7 +6,7 @@ package level_1;
 
 import java.util.Arrays;
 
-public class 문자열_내림차순으로_배치하기 {
+public class _009_문자열_내림차순으로_배치하기 {
     public static void main(String[] args) {
         // 입력
         String s = "Zbcdefg";

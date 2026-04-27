@@ -7,7 +7,7 @@ package level_1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 같은_숫자는_싫어 {
+public class _004_같은_숫자는_싫어 {
     public static void main(String[] args) {
         // 입력
         int[] arr = {1,1,3,3,0,1,1};

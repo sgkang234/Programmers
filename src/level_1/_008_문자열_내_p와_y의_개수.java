@@ -4,7 +4,7 @@ package level_1;
 // 대문자와 소문자가 섞여있는 문자열 s가 주어질 때, s에 'p'의 개수와 'y'의 개수를 비교해 같으면 True, 다르면 False를 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12916
 
-public class 문자열_내_p와_y의_개수 {
+public class _008_문자열_내_p와_y의_개수 {
     public static void main(String[] args) {
         // 입력
         String s = "pPoooyY";

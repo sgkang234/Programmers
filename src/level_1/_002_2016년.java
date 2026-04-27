@@ -4,7 +4,7 @@ package level_1;
 // 2016년 특정 날짜의 요일을 계산하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12901
 
-public class _2016년 {
+public class _002_2016년 {
     public static void main(String[] args) {
         // 입력
         int a = 5;

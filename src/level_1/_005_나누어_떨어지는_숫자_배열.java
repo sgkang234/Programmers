@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class 나누어_떨어지는_숫자_배열 {
+public class _005_나누어_떨어지는_숫자_배열 {
     public static void main(String[] args) {
         // 입력
         int[] arr = {5, 9, 7, 10};

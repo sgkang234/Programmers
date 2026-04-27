@@ -6,7 +6,7 @@ package level_1;
 
 import java.util.Arrays;
 
-public class 문자열_내_마음대로_정렬하기 {
+public class _007_문자열_내_마음대로_정렬하기 {
     public static void main(String[] args) {
         // 입력
         String[] strings = {"sun", "bed", "car"};

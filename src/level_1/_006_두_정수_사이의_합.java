@@ -4,7 +4,7 @@ package level_1;
 // 두 정수 a, b가 주어졌을 때 a와 b 사이에 속한 모든 정수의 합을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12912
 
-public class 두_정수_사이의_합 {
+public class _006_두_정수_사이의_합 {
     public static void main(String[] args) {
         // 입력
         long a = 5;

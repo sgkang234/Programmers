@@ -7,7 +7,7 @@ package level_1;
 import java.util.HashSet;
 import java.util.Set;
 
-public class 폰켓몬 {
+public class _001_폰켓몬 {
     public static void main(String[] args) {
         // 입력
         int[] nums = {3, 3, 3, 2, 2, 4};

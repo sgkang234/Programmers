@@ -4,7 +4,7 @@ package level_2;
 // 연결된 영역 개수 구하기 문제이기에 dfs로 풀어야 하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/1829
 
-public class 카카오_프렌즈_컬러링북 {
+public class _001_카카오_프렌즈_컬러링북 {
 
     static int[][] picture;
     static boolean[][] visited;

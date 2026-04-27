@@ -1,9 +1,13 @@
 package level_2;
 
+// 2026.04.27
+// 최단거리 문제이기에 bfs로 풀어야 하는 문제
+// https://school.programmers.co.kr/learn/courses/30/lessons/1844
+
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class 게임_맵_최단거리 {
+public class _003_게임_맵_최단거리 {
     public static void main(String[] args) {
         // 입력
         int[][] maps = {

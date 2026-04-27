@@ -1,6 +1,10 @@
 package level_2;
 
-public class 단체사진_찍기 {
+// 2026.04.20=7
+// 연결된 영역 개수 구하기 문제이기에 dfs로 풀어야 하는 문제
+// https://school.programmers.co.kr/learn/courses/30/lessons/1835
+
+public class _002_단체사진_찍기 {
 
     static char[] friends = {'A','C','F','J','M','N','R','T'};
     static boolean[] visited = new boolean[8]; // 사용 여부

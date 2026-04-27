@@ -16,7 +16,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 숫자_비교하기 {
+public class _8_숫자_비교하기 {
     public static void main(String[] args) throws IOException {
         // 입력
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

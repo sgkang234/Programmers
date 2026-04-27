@@ -6,7 +6,7 @@ package level_1;
 
 import java.util.Arrays;
 
-public class 소수_찾기 {
+public class _012_소수_찾기 {
     public static void main(String[] args) {
         // 입력
         int n = 10;

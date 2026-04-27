@@ -4,7 +4,7 @@ package level_0;
 // 두 정수를 곱한 정수를 반환하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120804
 
-public class _5_두_수의_곱_구하기 {
+public class _005_두_수의_곱_구하기 {
     public static void main(String[] args) {
         // 입력
         int num1 = 3;

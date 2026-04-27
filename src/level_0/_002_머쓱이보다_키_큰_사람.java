@@ -4,7 +4,7 @@ package level_0;
 // 주어진 배열에서 특정 값보다 큰 요소의 개수를 세는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120585
 
-public class _2_머쓱이보다_키_큰_사람 {
+public class _002_머쓱이보다_키_큰_사람 {
     public static void main(String[] args) {
         // 입력 
         int[] array = {149, 180, 192, 170};

@@ -4,7 +4,7 @@ package level_0;
 // 두 분수를 더한 뒤 기약분수로 만드는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120808
 
-public class _9_분수의_덧셈 {
+public class _009_분수의_덧셈 {
     public static void main(String[] args) {
         // 입력
         int numer1 = 1;

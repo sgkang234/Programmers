@@ -4,7 +4,7 @@ package level_0;
 // 모스부호로 문자열 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120838
 
-public class 모스부호_1 {
+public class _036_모스부호_1 {
     public static void main(String[] args) {
         // 입력
         String letter = "... --- ...";

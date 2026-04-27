@@ -8,7 +8,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 진료_순서_정하기 {
+public class _033_진료_순서_정하기 {
     public static void main(String[] args) {
         // 입력
         int[] emergency = {3, 76, 24};

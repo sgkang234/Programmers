@@ -7,7 +7,7 @@ package level_0;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 외계행성의_나이 {
+public class _032_외계행성의_나이 {
     public static void main(String[] args) {
         // 입력
         int age = 23;

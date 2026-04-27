@@ -4,7 +4,7 @@ package level_0;
 // 정수 배열 num_list와 정수 n이 주어질 때, num_list를 n차원 배열로 바꿔 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120842
 
-public class _2차원으로_만들기 {
+public class _040_2차원으로_만들기 {
     public static void main(String[] args) {
         // 입력
         int[] num_list = {1, 2, 3, 4, 5, 6, 7, 8};

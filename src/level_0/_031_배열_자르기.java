@@ -6,7 +6,7 @@ package level_0;
 
 import java.util.Arrays;
 
-public class 배열_자르기 {
+public class _031_배열_자르기 {
     public static void main(String[] args) {
         // 입력
         int[] numbers = {1, 2, 3, 4, 5};

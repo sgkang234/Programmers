@@ -4,7 +4,7 @@ package level_0;
 // 입력된 값을 최소한의 개수로 해결하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120837
 
-public class 개미_군단 {
+public class _035_개미_군단 {
     public static void main(String[] args) {
         // 입력
         int hp = 23;

@@ -4,7 +4,7 @@ package level_0;
 // 자연수 n이 주어질 때 두 숫자의 곱이 n인 자연수 순서쌍의 개수를 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120836
 
-public class 순서쌍의_개수 {
+public class _034_순서쌍의_개수 {
     public static void main(String[] args) {
         // 입력
         int n = 100;

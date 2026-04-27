@@ -7,7 +7,7 @@ package level_0;
 import java.util.HashMap;
 import java.util.Map;
 
-public class 최빈값_구하기 {
+public class _013_최빈값_구하기 {
     public static void main(String[] args) {
         // 입력
         int[] array = {1, 2, 3, 3, 3, 4};

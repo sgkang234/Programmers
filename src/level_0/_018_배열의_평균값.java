@@ -4,7 +4,7 @@ package level_0;
 // 정수 배열 numbers가 주어질 때, numbers의 원소의 평균값을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120817
 
-public class 배열의_평균값 {
+public class _018_배열의_평균값 {
     public static void main(String[] args) {
         // 입력
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};

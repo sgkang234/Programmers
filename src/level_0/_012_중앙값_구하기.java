@@ -6,7 +6,7 @@ package level_0;
 
 import java.util.Arrays;
 
-public class 중앙값_구하기 {
+public class _012_중앙값_구하기 {
     public static void main(String[] args) {
         // 입력
         int[] array = {9, -1, 0};

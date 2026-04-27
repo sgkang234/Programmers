@@ -4,7 +4,7 @@ package level_0;
 // 옷가게는 10만 원 이상 사면 5%, 30만 원 이상 사면 10%, 50만 원 이상 사면 20%를 할인해 줄때의 가격
 // https://school.programmers.co.kr/learn/courses/30/lessons/120818
 
-public class 옷가게_할인_받기 {
+public class _019_옷가게_할인_받기 {
     public static void main(String[] args) {
         // 입력
         int price = 580000;

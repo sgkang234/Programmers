@@ -4,7 +4,7 @@ package level_0;
 // 피자를 여섯 조각으로 했을 때 모든 사람이 같은 피자의 수를 먹을 수 있는 가장 작은 피자 판의 수를 구하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120815
 
-public class 피자_나눠_먹기_2 {
+public class _016_피자_나눠_먹기_2 {
     public static void main(String[] args) {
         // 입력
         int n = 10;

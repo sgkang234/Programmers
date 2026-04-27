@@ -4,7 +4,7 @@ package level_0;
 // 짝수와 홀수의 개수를 출려하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120824
 
-public class 짝수_홀수_개수 {
+public class _025_짝수_홀수_개수 {
     public static void main(String[] args) {
         // 입력
         int[] num_list = {1, 2, 3, 4, 5};

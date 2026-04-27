@@ -4,7 +4,7 @@ package level_0;
 // 2022년 기준 선생님의 나이 age가 주어질 때 출생년도를 출력
 // https://school.programmers.co.kr/learn/courses/30/lessons/120820
 
-public class 나이_출력 {
+public class _021_나이_출력 {
     public static void main(String[] args) {
         // 입력
         int age = 40;

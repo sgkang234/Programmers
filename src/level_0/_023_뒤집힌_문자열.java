@@ -4,7 +4,7 @@ package level_0;
 // 문자열을 뒤집어 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120822
 
-public class 뒤집힌_문자열 {
+public class _023_뒤집힌_문자열 {
     public static void main(String[] args) {
         // 입력
         String my_string = "jaron";

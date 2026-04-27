@@ -4,7 +4,7 @@ package level_0;
 // 양꼬치 가게는 10인분을 먹으면 음료수 하나를 서비스로 줍다고 할 때, 양꼬치는 1인분에 12,000원, 음료수는 2,000원일 때 가격을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120830
 
-public class 양꼬치 {
+public class _029_양꼬치 {
     public static void main(String[] args) {
         // 입력
         int n = 10;

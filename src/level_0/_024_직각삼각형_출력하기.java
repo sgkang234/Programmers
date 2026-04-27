@@ -8,7 +8,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class 직각삼각형_출력하기 {
+public class _024_직각삼각형_출력하기 {
     public static void main(String[] args) throws IOException {
         // 입력
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

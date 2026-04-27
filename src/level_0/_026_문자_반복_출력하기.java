@@ -1,19 +1,19 @@
 package level_0;
 
 // 2026.04.21
-// 입력된 문자열에서 특정 문자 제거하는 문제
-// https://school.programmers.co.kr/learn/courses/30/lessons/120826
+// 문자열을 반복해 출력하는 문제
+// https://school.programmers.co.kr/learn/courses/30/lessons/120825
 
-public class 특정_문자_제거하기 {
+public class _026_문자_반복_출력하기 {
     public static void main(String[] args) {
         // 입력
-        String my_string = "abcdef";
-        String letter = "f";
+        String my_string = "hello";
+        int n = 3;
 
         // 로직
         String answer = "";
         for (int i = 0; i < my_string.length(); i++) {
-            if (my_string.charAt(i) != letter.charAt(0)) {
+            for (int j = 0; j < n; j++) {
                 answer += my_string.charAt(i);
             }
         }
@@ -25,10 +25,10 @@ public class 특정_문자_제거하기 {
 
 /*
 class Solution {
-    public String solution(String my_string, String letter) {
+    public String solution(String my_string, int n) {
         String answer = "";
         for (int i = 0; i < my_string.length(); i++) {
-            if (my_string.charAt(i) != letter.charAt(0)) {
+            for (int j = 0; j < n; j++) {
                 answer += my_string.charAt(i);
             }
         }

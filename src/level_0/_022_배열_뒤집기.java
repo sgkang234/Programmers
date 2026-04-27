@@ -4,7 +4,7 @@ package level_0;
 // 배열을 뒤집어 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120821
 
-public class 배열_뒤집기 {
+public class _022_배열_뒤집기 {
     public static void main(String[] args) {
         // 입력
         int[] num_list = {1, 2, 3, 4, 5};

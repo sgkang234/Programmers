@@ -4,7 +4,7 @@ package level_0;
 // 정수 n이 주어질 때, n이하의 짝수를 모두 더한 값을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120831
 
-public class 짝수의_합 {
+public class _030_짝수의_합 {
     public static void main(String[] args) {
         // 입력
         int n = 10;

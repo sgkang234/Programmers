@@ -1,6 +1,6 @@
 package level_1;
 
-// 2026.04.23
+// 2026.04.27
 // 길이가 n이고, "수박수박수박수...."와 같은 패턴을 유지하는 문자열을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12922
 

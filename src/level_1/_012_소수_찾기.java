@@ -1,6 +1,6 @@
 package level_1;
 
-// 2026.04.23
+// 2026.04.26
 // 1부터 입력받은 숫자 n 사이에 있는 소수의 개수를 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12921
 

@@ -1,6 +1,6 @@
 package level_2;
 
-// 2026.04.20=7
+// 2026.04.28
 // 연결된 영역 개수 구하기 문제이기에 dfs로 풀어야 하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/1835
 

@@ -16,3 +16,13 @@ public class _014_문자열을_정수로_바꾸기 {
         System.out.println(answer);
     }
 }
+
+/*
+class Solution {
+    public int solution(String s) {
+
+   int answer = Integer.parseInt(s);
+        return answer;
+    }
+}
+ */

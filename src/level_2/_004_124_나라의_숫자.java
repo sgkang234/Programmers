@@ -1,6 +1,6 @@
 package level_2;
 
-// 2026.04.27
+// 2026.04.28
 // 0 없는 k진법 만들기 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12899
 

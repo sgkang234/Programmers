@@ -1,6 +1,6 @@
 package level_2;
 
-// 2026.04.27
+// 2026.04.28
 // 최단거리 문제이기에 bfs로 풀어야 하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/1844
 

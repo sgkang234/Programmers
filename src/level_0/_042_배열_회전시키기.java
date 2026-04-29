@@ -2,7 +2,7 @@ package level_0;
 
 // 2026.04.27
 // 정수가 담긴 배열 numbers와 문자열 direction가 주어질때, direction의 방향으로 회전시킨 numbers의 배열을 출력하는 문제
-// https://school.programmers.co.kr/learn/challenges?order=recent&page=10&languages=java&levels=0
+// https://school.programmers.co.kr/learn/courses/30/lessons/120844
 
 public class _042_배열_회전시키기 {
     public static void main(String[] args) {

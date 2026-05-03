@@ -52,3 +52,42 @@ public class _058_안전지대 {
         System.out.println(answer);
     }
 }
+
+/*
+class Solution {
+    public int solution(int[][] board) {
+        int n = board.length;
+        int [][] danger = new int [n][n];
+
+        // 8방향 + 자기 자신
+        int[] dx = {-1, -1, -1, 0, 0, 0, 1, 1, 1};
+        int[] dy = {-1, 0, 1, -1, 0, 1, -1, 0, 1};
+
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if(board[i][j] == 1){
+                    for (int k = 0; k < 9; k++) {
+                        int nx = i + dx[k];
+                        int ny = j + dy[k];
+
+                        if (nx >= 0 && ny >= 0 && nx < n && ny < n) {
+                            danger[nx][ny] = 1;
+                        }
+                    }
+                }
+            }
+        }
+
+        // 안전지역 개수 세기
+        int answer = 0;
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
+                if (danger[i][j] == 0) {
+                    answer++;
+                }
+            }
+        }
+        return answer;
+    }
+}
+ */

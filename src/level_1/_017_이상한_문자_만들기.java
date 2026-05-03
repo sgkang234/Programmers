@@ -31,3 +31,30 @@ public class _017_이상한_문자_만들기 {
         System.out.println(answer);
     }
 }
+
+/*
+class Solution {
+    public String solution(String s) {
+        String answer = "";
+        int idx = 0; // 단어 내 인덱스
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+
+            if (c == ' ') {
+                answer += " ";
+                idx = 0; // 공백 나오면 초기화
+            } else {
+                if (idx % 2 == 0) {
+                    answer += Character.toUpperCase(c);
+                } else {
+                    answer += Character.toLowerCase(c);
+                }
+                idx++;
+            }
+        }
+
+        return answer;
+    }
+}
+ */

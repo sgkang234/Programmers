@@ -28,3 +28,24 @@ public class _055_최대값_만들기_2 {
         System.out.println(answer);
     }
 }
+
+/*
+class Solution {
+    public int solution(int[] number) {
+        int answer = Integer.MIN_VALUE;
+        int n = 0;
+        for (int i = 0; i < number.length; i++) {
+            for (int j = 0; j < number.length; j++) {
+                if(i == j){
+                    continue;
+                }
+                n = number[i] * number[j];
+                if(answer < n){
+                    answer = n;
+                }
+            }
+        }
+        return answer;
+    }
+}
+ */

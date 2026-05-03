@@ -30,3 +30,21 @@ public class _019_자연수_뒤집어_배열로_만들기 {
         System.out.println(Arrays.toString(answer));
     }
 }
+
+/*
+class Solution {
+    public int[] solution(long n) {
+        if (n == 0) return new int[]{0};
+
+        int[] answer = new int[String.valueOf(n).length()];
+        int idx = 0;
+
+        while (n > 0) {
+            answer[idx++] = (int)(n % 10);
+            n /= 10;
+        }
+
+        return answer;
+    }
+}
+ */

@@ -23,3 +23,18 @@ public class _057_숨어있는_숫자의_덧셈_2 {
         System.out.println(answer);
     }
 }
+/*
+class Solution {
+    public int solution(String my_string) {
+        int answer = 0;
+        String str = my_string.replaceAll("[^0-9]", " ");
+        String[] arr = str.split(" ");
+        for (String s : arr) {
+            if (!s.equals("")) {
+                answer += Integer.parseInt(s);
+            }
+        }
+        return answer;
+    }
+}
+ */

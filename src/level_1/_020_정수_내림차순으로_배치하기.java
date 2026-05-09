@@ -1,6 +1,6 @@
 package level_1;
 
-// 2026.05.01
+// 2026.05.02
 // 정수 배열이 주어질 때, 배열의 원소 중 두 개를 곱해 만들 수 있는 최대값을 출력하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12933
 

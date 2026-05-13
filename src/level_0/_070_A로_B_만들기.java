@@ -25,3 +25,21 @@ public class _070_A로_B_만들기 {
         System.out.println(answer);
     }
 }
+
+/*
+import java.util.Arrays;
+
+
+class Solution {
+    public int solution(String before, String after) {
+        char[] arr1 = before.toCharArray();;
+        char[] arr2 = after.toCharArray();
+
+        Arrays.sort(arr1);
+        Arrays.sort(arr2);
+
+        int answer = Arrays.equals(arr1, arr2) ? 1 : 0;
+        return answer;
+    }
+}
+ */

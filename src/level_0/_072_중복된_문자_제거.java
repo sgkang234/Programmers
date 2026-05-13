@@ -29,3 +29,24 @@ public class _072_중복된_문자_제거 {
         System.out.println(answer);
     }
 }
+
+/*
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+class Solution {
+    public String solution(String my_string) {
+        String answer = "";
+        Set<String> set = new LinkedHashSet<>();
+        for( int i = 0; i < my_string.length(); i++ ){
+            set.add(String.valueOf(my_string.charAt(i)));
+        }
+
+
+        for (String s : set) {
+            answer += s;
+        }
+        return answer;
+    }
+}
+ */

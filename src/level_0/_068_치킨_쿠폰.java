@@ -29,3 +29,23 @@ public class _068_치킨_쿠폰 {
         System.out.println(serviceChicken);
     }
 }
+/*
+class Solution {
+    public int solution(int chicken) {
+        int coupon = 0;
+        int serviceChicken = 0;
+
+        while (true) {
+            coupon = chicken % 10; // 1, 9, 9, 1
+            chicken = chicken / 10; // 108, 10, 0
+            serviceChicken += chicken; // 108, 118, 119, 120
+            chicken += coupon; // 109, 19, 10
+            coupon = 0;
+            if(chicken< 10){
+                break;
+            }
+        }
+        return serviceChicken;
+    }
+}
+ */

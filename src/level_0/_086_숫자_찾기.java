@@ -1,6 +1,6 @@
 package level_0;
 
-// 2026.05.21
+// 2026.05.22
 // 정수 num과 k가 주어질 때, num을 이루는 숫자 중에 k가 있으면 num의 그 숫자가 있는 자리 수를 출력하고 없으면 -1을 하도록
 // https://school.programmers.co.kr/learn/courses/30/lessons/120904
 

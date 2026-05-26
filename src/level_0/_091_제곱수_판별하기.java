@@ -1,7 +1,7 @@
 package level_0;
 
 // 2026.05.26
-// 문자열 st1에 str2가 있다면 1을 없다면 2를 출력하는 문제
+// 제곱수인지 판별하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/120909
 
 public class _091_제곱수_판별하기 {

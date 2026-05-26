@@ -4,7 +4,6 @@ package level_1;
 // 뒷자리 4개만 남기고 다 '*'로 변환하는 문제
 // https://school.programmers.co.kr/learn/courses/30/lessons/12948
 
-
 public class _028_핸드폰_번호_가리기 {
     public static void main(String[] args) {
         // 입력
